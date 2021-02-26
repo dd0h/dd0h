@@ -1,6 +1,7 @@
 # Welcome to my Github profile 👋😄.
 I am a third year Computer Science student,🌱 currently learning Spring-boot framework.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd0h&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd0h&show_icons=true&theme=radical&hide=stars,prs,issues)
 <!--
 **dd0h/dd0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
