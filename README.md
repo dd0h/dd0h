@@ -1,5 +1,7 @@
 # Welcome to my Github profile 👋😄.
-I am a third year Computer Science student,🌱 currently learning Spring-boot framework.
+I am a third year Computer Science student,🌱 learning Spring-boot framework.
+
+Currently working on [Dietiter](https://github.com/dd0h/dietiter).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd0h&show_icons=true&theme=default&hide=stars,prs,issues)
 <!--
